@@ -4,3 +4,4 @@ numpy
 scikit-learn
 yfinance  # if you're using Yahoo Finance data
 matplotlib
+tensorflow
